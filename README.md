@@ -2,9 +2,17 @@
 - ⭐ **재직자 전형 입시를 준비하고 있는 많은 분들에게 도움이 되고자 개발된 프로그램입니다.<br>**
 This program was developed to help many people who are preparing for the university entrance examination.<br><br>
 - 🔐 해당 리포지토리는 오직 버전 별 프로그램 배포에 의의를 두고 있습니다. <br>
-The repository is only intended to distribute programs by version. Source code is not here.<br><br>
-- 📂 두가지 폴더가 존재하고, 각 파일은 아래와 같은 차이가 있습니다.<br>
-There are two folders, and each file has the following differences.<br>
+The repository is only intended to distribute programs by version. Source code is not here.<br>
+
+## How to Download?
+ - 🐳 지금 여러분이 보고있는 화면 **우측에 "Release" 라고 써 있는 부분**이 있을 텐데요! <br>
+   해당 부분을 **클릭하고**, **원하는 프로그램의 .zip 파일을 클릭하여** 다운로드 받으면 된답니다.<br>
+   어떤 프로그램을 써야 하는지 모르겠다면, 글을 끝까지 읽어주세요! <br>
+- 🐳 There must be a part that says "Release" on the right side of the screen you're looking at! <br>
+   Just click the corresponding button and download the .zip file of the program you want.<br>
+   If you don't know which program to use, please see the program category and download it! <br><br>
+
+<br>
 
 ## K-GPA
  - ❗ 해당 폴더에 있는 파일은 **내신 자동 산출만**이 가능한 콘솔 프로그램입니다.<br>
@@ -25,5 +33,5 @@ There are two folders, and each file has the following differences.<br>
 <br>
 
 ## End
- - 🖐️ 자세한 내용은 각 폴더 내부 ReadMe를 읽어주세요. 감사합니다! 이쁘게 사용 해 주세요!<br>
- - 🖐️ Read the ReadMe inside each folder for details. thank you! Please use it nicely!
+ - 🖐️ 업데이트 로그와 같은 자세한 내용은 각 폴더 내부 ReadMe를 읽어주세요. 감사합니다! 이쁘게 사용 해 주세요!<br>
+ - 🖐️ If you want see Update Note, Read the ReadMe inside each folder for details. thank you! Please use it nicely!
