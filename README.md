@@ -11,7 +11,8 @@ The repository is only intended to distribute programs by version. Source code i
 - 🐳 There must be a part that says "Release" on the right side of the screen you're looking at! <br>
    Just click the corresponding button and download the .zip file of the program you want.<br>
    If you don't know which program to use, please see the program category and download it! <br><br>
-
+  - 다운로드 방법 (How to Download?) 
+![다운방법](https://github.com/devbini/Korean-Highschool-GPA-calculator/assets/106393694/383a15d9-8b2b-4104-94f0-ad340fe8acac)
 <br>
 
 ## K-GPA
