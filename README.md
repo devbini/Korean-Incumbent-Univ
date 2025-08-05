@@ -1,3 +1,5 @@
+### 2025 현행 업데이트 중단
+---
 # Welcome
 - ⭐ **재직자 전형 입시를 준비하고 있는 많은 분들에게 도움이 되고자 개발된 프로그램입니다.<br>**
 This program was developed to help many people who are preparing for the university entrance examination.<br><br>
